@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eatOrder.blazor", "eatOrder
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eatOrder.data", "eatOrder.data\eatOrder.data.csproj", "{3BAA648F-2D24-4A3F-A48C-690DCE9F9978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eatOrder.cmd", "eatOrder.cmd\eatOrder.cmd.csproj", "{3522D98E-B83D-4872-820B-6BDF7D03212B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3BAA648F-2D24-4A3F-A48C-690DCE9F9978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BAA648F-2D24-4A3F-A48C-690DCE9F9978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BAA648F-2D24-4A3F-A48C-690DCE9F9978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3522D98E-B83D-4872-820B-6BDF7D03212B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3522D98E-B83D-4872-820B-6BDF7D03212B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3522D98E-B83D-4872-820B-6BDF7D03212B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3522D98E-B83D-4872-820B-6BDF7D03212B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
